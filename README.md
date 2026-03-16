@@ -149,7 +149,7 @@ rm temp.txt
 
 ### 1. What is the difference between > and >> in Linux?
 
-> is used to overwrite the content of a file.
+>is used to overwrite the content of a file.
 
 Example:
 echo "Hello" > file.txt
