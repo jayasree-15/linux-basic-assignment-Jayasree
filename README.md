@@ -12,3 +12,11 @@ The pwd command is used to display the current working directory in the Linux sy
 
 Example:
 pwd
+
+### 2. ls
+
+Purpose:
+The ls command is used to list the files and directories in the current directory.
+
+Example:
+ls
